@@ -1,6 +1,7 @@
+# ...existing code...
 import customtkinter as ctk
 from init_db import init_db
-from dashboard import Dashboard
+from dashboard_view import Dashboard
 from clientes_view import ClientesView
 
 
@@ -39,3 +40,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# ...existing code...
